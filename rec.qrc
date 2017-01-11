@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/57aacbaa6fa23_1024.jpg</file>
+        <file>img/style.css</file>
+        <file>img/close.png</file>
+        <file>img/minizime.png</file>
+        <file>img/21246001_173551016000_2.jpg</file>
+        <file>img/funny_1.png</file>
+        <file>img/20161109113530914.gif</file>
+        <file>img/qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
